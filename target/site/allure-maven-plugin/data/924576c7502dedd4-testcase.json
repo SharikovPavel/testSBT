@@ -1,0 +1,127 @@
+{
+  "uid" : "924576c7502dedd4",
+  "name" : "allTest",
+  "title" : "Тест арифметических операций с файла",
+  "time" : {
+    "start" : 1464352533645,
+    "stop" : 1464352533738,
+    "duration" : 93
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "149d15c96f621b5c",
+    "name" : "ru.sbt.testsbt.ParserTest",
+    "title" : "Parser test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Махно-VAIO"
+  }, {
+    "name" : "thread",
+    "value" : "3992@Махно-VAIO.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "ru.sbt.testsbt.ParserTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ {
+    "name" : "param1",
+    "value" : "12",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param2",
+    "value" : "42",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operator",
+    "value" : "+",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "result",
+    "value" : "54",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "resultTest",
+    "value" : "54",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param1",
+    "value" : "12",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param2",
+    "value" : "3",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operator",
+    "value" : "/",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "result",
+    "value" : "4",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "resultTest",
+    "value" : "4",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param1",
+    "value" : "10",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param2",
+    "value" : "100",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operator",
+    "value" : "*",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "result",
+    "value" : "1000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "resultTest",
+    "value" : "1000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param1",
+    "value" : "50",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "param2",
+    "value" : "17",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operator",
+    "value" : "-",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "result",
+    "value" : "33",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "resultTest",
+    "value" : "33",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
+}

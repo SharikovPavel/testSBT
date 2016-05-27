@@ -1,0 +1,47 @@
+{
+  "uid" : "7a46fd6e895a0698",
+  "name" : "sum",
+  "title" : "Тест отдельного метода sum",
+  "time" : {
+    "start" : 1464352533754,
+    "stop" : 1464352533769,
+    "duration" : 15
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "149d15c96f621b5c",
+    "name" : "ru.sbt.testsbt.ParserTest",
+    "title" : "Parser test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Махно-VAIO"
+  }, {
+    "name" : "thread",
+    "value" : "3992@Махно-VAIO.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "ru.sbt.testsbt.ParserTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

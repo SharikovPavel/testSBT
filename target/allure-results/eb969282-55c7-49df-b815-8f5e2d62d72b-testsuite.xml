@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1464352533033" stop="1464352533801" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ru.sbt.testsbt.ParserTest</name>
+    <test-cases>
+        <test-case start="1464352533064" stop="1464352533080" status="passed">
+            <name>divide</name>
+            <title>Тест отдельного метода divide</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Махно-VAIO"/>
+                <label name="thread" value="3992@Махно-VAIO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1464352533645" stop="1464352533645" status="passed">
+            <name>firstSimpleTest</name>
+            <title>First test </title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Махно-VAIO"/>
+                <label name="thread" value="3992@Махно-VAIO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1464352533645" stop="1464352533738" status="passed">
+            <name>allTest</name>
+            <title>Тест арифметических операций с файла</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Махно-VAIO"/>
+                <label name="thread" value="3992@Махно-VAIO.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="param1" value="12" kind="environment-variable"/>
+                <parameter name="param2" value="42" kind="environment-variable"/>
+                <parameter name="operator" value="+" kind="environment-variable"/>
+                <parameter name="result" value="54" kind="environment-variable"/>
+                <parameter name="resultTest" value="54" kind="environment-variable"/>
+                <parameter name="param1" value="12" kind="environment-variable"/>
+                <parameter name="param2" value="3" kind="environment-variable"/>
+                <parameter name="operator" value="/" kind="environment-variable"/>
+                <parameter name="result" value="4" kind="environment-variable"/>
+                <parameter name="resultTest" value="4" kind="environment-variable"/>
+                <parameter name="param1" value="10" kind="environment-variable"/>
+                <parameter name="param2" value="100" kind="environment-variable"/>
+                <parameter name="operator" value="*" kind="environment-variable"/>
+                <parameter name="result" value="1000" kind="environment-variable"/>
+                <parameter name="resultTest" value="1000" kind="environment-variable"/>
+                <parameter name="param1" value="50" kind="environment-variable"/>
+                <parameter name="param2" value="17" kind="environment-variable"/>
+                <parameter name="operator" value="-" kind="environment-variable"/>
+                <parameter name="result" value="33" kind="environment-variable"/>
+                <parameter name="resultTest" value="33" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1464352533754" stop="1464352533769" status="passed">
+            <name>sum</name>
+            <title>Тест отдельного метода sum</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Махно-VAIO"/>
+                <label name="thread" value="3992@Махно-VAIO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1464352533785" stop="1464352533785" status="passed">
+            <name>multiplication</name>
+            <title>Тест отдельного метода multiplication</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Махно-VAIO"/>
+                <label name="thread" value="3992@Махно-VAIO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

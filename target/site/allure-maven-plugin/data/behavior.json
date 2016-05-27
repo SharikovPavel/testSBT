@@ -1,0 +1,81 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 5,
+      "passed" : 5,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "17f7270ccfcccb77",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 5,
+        "passed" : 5,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "1ddc40711afdeab4",
+        "name" : "divide",
+        "title" : "Тест отдельного метода divide",
+        "time" : {
+          "start" : 1464352533064,
+          "stop" : 1464352533080,
+          "duration" : 16
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "910c4c4df8748cee",
+        "name" : "firstSimpleTest",
+        "title" : "First test ",
+        "time" : {
+          "start" : 1464352533645,
+          "stop" : 1464352533645,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "924576c7502dedd4",
+        "name" : "allTest",
+        "title" : "Тест арифметических операций с файла",
+        "time" : {
+          "start" : 1464352533645,
+          "stop" : 1464352533738,
+          "duration" : 93
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7a46fd6e895a0698",
+        "name" : "sum",
+        "title" : "Тест отдельного метода sum",
+        "time" : {
+          "start" : 1464352533754,
+          "stop" : 1464352533769,
+          "duration" : 15
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "59630fc58059a4b7",
+        "name" : "multiplication",
+        "title" : "Тест отдельного метода multiplication",
+        "time" : {
+          "start" : 1464352533785,
+          "stop" : 1464352533785,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
